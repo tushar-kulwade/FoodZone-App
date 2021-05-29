@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889167745780",
+    "firebase_url": "https://foodzone-e7300-default-rtdb.firebaseio.com",
+    "project_id": "foodzone-e7300",
+    "storage_bucket": "foodzone-e7300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889167745780:android:b09531b5c1f837936f84a1",
+        "android_client_info": {
+          "package_name": "com.tkdeveloper.foodzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889167745780-u6r1fraotl2phs55ao52qv24q4m5kvdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tkdeveloper.foodzone",
+            "certificate_hash": "3a086111230fe5c8e3b9f4d656902eb1546d4adc"
+          }
+        },
+        {
+          "client_id": "889167745780-lrlbeiuoc2k6ossm3h1d7v6k595kfma8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZp9MMrEqvK2Wo6P61f8REMDWaMDuOvZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889167745780-lrlbeiuoc2k6ossm3h1d7v6k595kfma8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
